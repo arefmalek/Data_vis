@@ -23,6 +23,3 @@ def regular(number):
 
 n = 1_000
 
-this = "yes"
-this += str(n)
-print(this)
