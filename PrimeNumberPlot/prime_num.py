@@ -43,5 +43,5 @@ def sieve(limit):
 
 
 
-n = 100_000
+n = 1_000
 sieve(n)
