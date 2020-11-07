@@ -1,2 +1,2 @@
-# Data_vis
-trying my hand with some fun stuff
+# Data Visualizations
+I try to make some cool graphics
