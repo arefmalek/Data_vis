@@ -42,6 +42,5 @@ ax.axes.set_xlabel("State")
 ax.set_xticks(np.arange(51))
 ax.set_xticklabels(df.State, rotation=90)
 
-
 plt.show()
 ####

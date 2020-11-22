@@ -8,7 +8,6 @@ pop = pd.read_csv("https://raw.githubusercontent.com/PitchInteractiveInc/tilegra
 
 nhpop = pd.read_csv("race_makeup/data/rmf.txt", sep="\t", header = None)
 
-print(nhpop.head())
 nhpop[2] = nhpop[2].str.rstrip(r'\d%').astype(float)
 
 with open("race_makeup/data/statekey.json") as f:
